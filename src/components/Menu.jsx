@@ -6,6 +6,10 @@ const Menu = () => {
   const menuItems = [
     { label: "Home", path: "/" },
     {
+      label: "About",
+      path: "/about",
+    },
+    {
       label: "Services",
       dropdown: [
         { label: "Web", path: "/services/web" },

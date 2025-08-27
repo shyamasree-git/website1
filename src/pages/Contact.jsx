@@ -5,9 +5,6 @@ const Contact = () => {
   return (
     <>
       <div>
-        <Header />
-      </div>
-      <div>
         <h2>This is Contact Page</h2>
       </div>
     </>
