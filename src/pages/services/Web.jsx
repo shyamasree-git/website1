@@ -5,9 +5,6 @@ const Web = () => {
   return (
     <>
       <div>
-        <Header />
-      </div>
-      <div>
         <h2>This is Web page</h2>
       </div>
     </>

@@ -1,15 +1,13 @@
-import React from 'react'
-import Header from '../components/Header'
+import React from "react";
 
 const About = () => {
   return (
     <>
-  
-    <div className='text-center'>
+      <div className="text-center">
         <h2>This is about page</h2>
-    </div>
+      </div>
     </>
-  )
-}
+  );
+};
 
-export default About
+export default About;

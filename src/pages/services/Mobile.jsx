@@ -5,9 +5,6 @@ const Mobile = () => {
   return (
     <>
       <div>
-        <Header />
-      </div>
-      <div>
         <h2>This is Mobile page</h2>
       </div>
     </>
